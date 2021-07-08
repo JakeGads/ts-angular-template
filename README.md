@@ -2,6 +2,18 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.1.
 
+## Run API & Dev Server
+
+using `concurrently` you can run both the Front and Back ends with 
+
+```bash
+npm run server
+```
+
+FRONT END: `http://localhost:4200/`
+
+BACK END: `http://localhost:4201/`
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
